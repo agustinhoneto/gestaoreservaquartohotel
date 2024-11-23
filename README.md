@@ -1,2 +1,2 @@
-# gestaoreservaquartohotel
-Projeto em Pyhton para Reserva de Quartos de Hotel
+# room-booking-app-facens
+Final project for the Data Science postgraduate program at Facens University.
